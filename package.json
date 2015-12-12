@@ -1,0 +1,27 @@
+{
+  "name": "react-alfred",
+  "version": "0.0.1",
+  "description": "A React component simulating Alfred app :tophat:",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonslyvia/react-alfred.git"
+  },
+  "keywords": [
+    "react",
+    "alfred"
+  ],
+  "author": "jasonslyvia <jasonslyvia@gmail.com> (http://undefinedblog.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonslyvia/react-alfred/issues"
+  },
+  "homepage": "https://github.com/jasonslyvia/react-alfred#readme",
+  "devDependencies": {
+    "babel-loader": "^6.2.0",
+    "webpack": "^1.12.9"
+  }
+}
